@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # rails_app-cookbook
 
 TODO: Enter the cookbook description here.
@@ -49,3 +50,7 @@ Include `rails_app` in your node's `run_list`:
 ## License and Authors
 
 Author:: YOUR_NAME (<YOUR_EMAIL>)
+=======
+berkschef
+=========
+>>>>>>> 045b9857e8e990dd38cf8cfbafdca1e9cf9021c8
